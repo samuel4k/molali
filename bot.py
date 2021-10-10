@@ -24,18 +24,18 @@ Deccan = Client(
     )
     
 START_TEXT = """
-Hello {}, 
-I am <b>Google Translator Bot.</b>
+Hello molali  {}, 
+I am <b>Google Translator Bot annu molali.</b>
 
-Send me a <b>word/sentence.</b> I will Translate it to you ✅
+ennik <b>word/sentence.</b> njann Translate cheithu tharam 
 
 Click /help for more details..
 
-<b>▷ Made With ❤ By @ZauteKm.</b>
+<b>▷ Made With Nambuthiri @jose_ph_ed.</b>
 """
 HELP_TEXT = """
 Hey, 
-It's not complicated 🤭
+It's not complicated nabuthiri🤭
 
 <b><u>Follow these Steps.</u></b>
 ▷ Just send me a Word/Sentence/Paragraph.
@@ -44,20 +44,20 @@ It's not complicated 🤭
 <b><u>Languages :-</u></b>
 English, Tamil, Telugu, Hindi, Kannada, Malayalam, Urdu, Punjabi, Spanish, Korean, Japanese, Chinese, Greek, Italian, Vietnamese, Nepali
  
-<b>▷ Made With ❤ By @ZauteKm.</b>
+<b>▷ Made With ❤ By @jose_ph_ed.</b>
 """
 ABOUT_TEXT = """
-⭕️<b>🤖 My Name : Google Translator Bot</b>
+⭕️<b>🤖 My Name : Google Translator  chotu Bot</b>
 
 ⭕️<b>📝 Language :</b> <code>Python3</code>
 
-⭕️<b>📚 Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
+⭕️<b>📚 Library :</b> <a href='https://t.me/kerala_toda_y</a>
 
-⭕️<b>📡 Hosted on :</b> <a href='https://heroku.com/'>Heroku</a>
+⭕️<b>📡 Hosted on :</b> <a href='https://t.me/kerala_toda_y</a>
 
-⭕️<b>👥 Group :</b> <a href='https://t.me/InFoJosTelGroup'>InFoJosTel Group</a>
+⭕️<b>👥 Group :</b> <a href='https://t.me/kerala_toda_y</a>
 
-⭕️<b>📢 Channel :</b> <a href='https://t.me/InFoJosTel'>InFoJosTel</a>
+⭕️<b>📢 Channel :</b> <a href='https://t.me/nazriya_naz'</a>
 """
 
 DONATE_TEXT = """<b>Thanks for Clicking Donate Command.</b>
@@ -72,38 +72,38 @@ To donate you can choose any of these options and send any amount that you wish.
 
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
+        InlineKeyboardButton('Nazirya Fan club', url='https://t.me/nazriya_naz'),
+        InlineKeyboardButton(' JOin ', url='https://t.me/kerala_toda_y')
         ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        InlineKeyboardButton(' 🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat'),
+        InlineKeyboardButton('Support', url='https://t.me/sukuna_support'),
+        InlineKeyboardButton('Updates', url='https://t.me/plexus_bots_updates')
         ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('🔻 Malyali Today', url='https://t.me/kerala_toda_y')
         ]]
     )
 HELP_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
+        InlineKeyboardButton('Nazirya Fan club', url='https://t.me/nazriya_naz'),
+        InlineKeyboardButton(' JOin ', url='https://t.me/kerala_toda_y')
         ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        InlineKeyboardButton(' 🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat'),
+        InlineKeyboardButton('Support', url='https://t.me/sukuna_support'),
+        InlineKeyboardButton('Updates', url='https://t.me/plexus_bots_updates')
         ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('🔻 Malyali Today', url='https://t.me/kerala_toda_y')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
+        InlineKeyboardButton('Nazirya Fan club', url='https://t.me/nazriya_naz'),
+        InlineKeyboardButton(' JOin ', url='https://t.me/kerala_toda_y')
         ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        InlineKeyboardButton(' 🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat'),
+        InlineKeyboardButton('Support', url='https://t.me/sukuna_support'),
+        InlineKeyboardButton('Updates', url='https://t.me/plexus_bots_updates')
         ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('🔻 Malyali Today', url='https://t.me/kerala_toda_y')
         ]]
     )
 DONATE_BUTTONS = InlineKeyboardMarkup(
@@ -111,14 +111,14 @@ DONATE_BUTTONS = InlineKeyboardMarkup(
         InlineKeyboardButton('💸 PayPal', url='https://t.me/Zautebot'),
         InlineKeyboardButton('UPI 🤑', url='https://t.me/zautebot')
         ],[
-        InlineKeyboardButton('👥 Group', url='https://t.me/InFoJosTelGroup'),
-        InlineKeyboardButton(' Channel 📢', url='https://telegram.me/InFoJosTel')
+        InlineKeyboardButton('Nazirya Fan club', url='https://t.me/nazriya_naz'),
+        InlineKeyboardButton(' JOin ', url='https://t.me/kerala_toda_y')
         ],[
-        InlineKeyboardButton('🗣 Feedback', url='https://telegram.me/ZauteBot'),
-        InlineKeyboardButton('Bot Lists 🤖', url='https://t.me/TG_BotList/37'),
-        InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl')
+        InlineKeyboardButton(' 🎗 Plexus 🎗', url='https://t.me/anime_plexus_chat'),
+        InlineKeyboardButton('Support', url='https://t.me/sukuna_support'),
+        InlineKeyboardButton('Updates', url='https://t.me/plexus_bots_updates')
         ],[
-        InlineKeyboardButton('🔻 Subscribe Now YouTube 🔻', url='https://youtube.com/c/ZauteKm')
+        InlineKeyboardButton('🔻 Malyali Today', url='https://t.me/kerala_toda_y')
         ]]
     )
 
